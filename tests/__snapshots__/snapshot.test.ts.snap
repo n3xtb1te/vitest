@@ -1,0 +1,10 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`should match snapshot 1`] = `
+{
+  "a": 1,
+  "b": 2,
+}
+`;
+
+exports[`should match snapshot v2 1`] = `"HELLO"`;
